@@ -1,4 +1,8 @@
-# PhoenixDB (朱雀)是面向科学计算, 可进行复杂分析统计处理的新一代大数据平台. PhoenixDB为分布式MPP架构, 具有水平扩展能力, 可以无限维度建模, 满足ACID, 符合第四范式, 可处理PB级数据量.  #
+# PhoenixDB(朱雀) #
+
+## 简介 ##
+* PhoenixDB是面向科学计算, 可进行复杂分析统计处理的新一代大数据平台. PhoenixDB为分布式MPP架构, 具有水平扩展能力, 可以无限维度建模, 满足ACID, 符合第四范式, 可处理PB级数据量. 
+
 ## 关于 ##
 
 * PhoenixDB 是SciDB DBMS 的一个分支项目.
@@ -10,15 +14,13 @@
 
 
 ## 架构 ##
-* 
-
-PhoenixDB 受 Google Mesa 平台启发, PhoenixDB 将逐步摆脱 SciDB 的传统集中式架构进化成 Google Mesa的架构.
-
+* PhoenixDB 受 Google Mesa 平台启发, PhoenixDB 将逐步摆脱 SciDB 的传统集中式架构进化成 Google Mesa的架构.
+```
 ## QuickStart ##
 
-* https://bitbucket.org/phoenixdb/phoenixdb/wiki/Quick%20start *
+* https://bitbucket.org/phoenixdb/phoenixdb/wiki/Quick%20start 
 
 ### Download Code ###
 
 * https://bitbucket.org/phoenixdb/phoenixdb/src *
-
+```

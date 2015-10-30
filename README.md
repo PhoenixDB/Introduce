@@ -15,12 +15,12 @@
 
 ## 架构 ##
 * PhoenixDB 受 Google Mesa 平台启发, PhoenixDB 将逐步摆脱 SciDB 的传统集中式架构进化成 Google Mesa的架构.
-```
+
 ## QuickStart ##
 
-* https://bitbucket.org/phoenixdb/phoenixdb/wiki/Quick%20start 
+https://bitbucket.org/phoenixdb/phoenixdb/wiki/Quick%20start 
 
 ### Download Code ###
 
-* https://bitbucket.org/phoenixdb/phoenixdb/src *
-```
+https://bitbucket.org/phoenixdb/phoenixdb/src *
+
